@@ -57,24 +57,7 @@ Features
   - `numpy`
   - `comtypes` (for volume control)
 
-## Installation
 
-1. **Clone the Repository**:
-   ```sh
-   git clone https://github.com/your-username/multi-function-automation-script.git
-   ```
-2. **Navigate to the Project Directory**:
-   ```sh
-   cd multi-function-automation-script
-   ```
-3. **Install Required Libraries**:
-   ```sh
-   pip install -r requirements.txt
-   ```
-   Alternatively, install libraries individually:
-   ```sh
-   pip install smtplib requests beautifulsoup4 geocoder pyttsx3 twilio pycaw pywhatkit googlesearch-python cvzone opencv-python numpy comtypes
-   ```
 
 ## Usage Example
 
